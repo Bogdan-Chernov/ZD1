@@ -1,0 +1,7 @@
+C:\Users\solov\source\repos\1 Вариант решение\1 Вариант решение\bin\Debug\1 Вариант решение.exe.config
+C:\Users\solov\source\repos\1 Вариант решение\1 Вариант решение\bin\Debug\1 Вариант решение.exe
+C:\Users\solov\source\repos\1 Вариант решение\1 Вариант решение\bin\Debug\1 Вариант решение.pdb
+C:\Users\solov\source\repos\1 Вариант решение\1 Вариант решение\obj\Debug\1 Вариант решение.csprojAssemblyReference.cache
+C:\Users\solov\source\repos\1 Вариант решение\1 Вариант решение\obj\Debug\1 Вариант решение.csproj.CoreCompileInputs.cache
+C:\Users\solov\source\repos\1 Вариант решение\1 Вариант решение\obj\Debug\1 Вариант решение.exe
+C:\Users\solov\source\repos\1 Вариант решение\1 Вариант решение\obj\Debug\1 Вариант решение.pdb
